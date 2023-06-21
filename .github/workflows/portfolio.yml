@@ -21,5 +21,7 @@ jobs:
 
       - name: Build
         run: hugo --minify
+      - name: print
+        run: whoami
       - name: Start
         run: systemctl restart hugo.service
