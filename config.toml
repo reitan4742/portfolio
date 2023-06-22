@@ -1,4 +1,6 @@
-baseURL = 'http://example.org/'
+# baseURL = 'http://example.org/'
+baseURL = 'https://reitan4742.com:51008/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'colordrop'
+canonifyurls = true

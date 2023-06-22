@@ -21,5 +21,3 @@ jobs:
 
       - name: Build
         run: hugo --minify
-      - name: Start
-        run: sudo systemctl restart hugo.service
