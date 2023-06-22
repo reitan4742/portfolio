@@ -1,0 +1,10 @@
+baseURL: https://reitan4742.com:51008/
+languageCode: ja-jp
+title: My Portfolio
+theme: colordrop
+
+author:
+  name: Reiya Matsumoto
+  job: graduate student
+  image:
+  github: https://github.com/reitan4742/
