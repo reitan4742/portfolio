@@ -29,7 +29,7 @@ menu:
       weight: 1
 
 params:
-  description: "本ページは、あるエンジニア志望の大学院生のポートフォリオサイトです。私が身に着けてきたスキルや、これまでに開発をしたアプリケーションについてまとめています。"
+  description: "ようこそ！！このサイトは、エンジニア志望の大学院生のポートフォリオサイトです。私が身に着けたスキルや、これまでに開発をしたアプリケーションについてまとめています。"
   siteLogo: profile.jpg 
   themeColor: "#4169e1"
   themeInverseColor: "#ffffff"
