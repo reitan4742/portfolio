@@ -1,4 +1,4 @@
-aseURL: https://portfolio.reitan4742.com:51008/
+baseURL: https://portfolio.reitan4742.com:51008/
 languageCode: ja-jp
 title: My Portfolio
 theme: colordrop
@@ -6,7 +6,7 @@ theme: colordrop
 author:
   name: Reiya Matsumoto
   job: graduate student
-  image:
+  image: profile.jpg
   github: https://github.com/reitan4742/
 
 taxonomies:
