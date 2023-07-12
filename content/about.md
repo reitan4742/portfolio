@@ -33,4 +33,4 @@ draft: false
 | 2022 | 3 | TOEIC公開テスト775点　取得 |
 
 # スキル
-cooming soon.
+comming soon.
