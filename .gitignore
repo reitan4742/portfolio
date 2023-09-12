@@ -1,0 +1,14 @@
+# Python bytecode
+__pycache__/
+
+# MkDocs build directory
+site/
+
+# MkDocs temporary files
+site.yml.swp
+
+# MkDocs cache
+.cache/
+
+# MkDocs virtual environment
+venv/
