@@ -4,6 +4,7 @@ site_url: https://reitan4742.com/portfolio/
 nav:
   - Home: index.md
   - About: about.md
+  - Works: works.md
   - Blog:
     - blog/index.md
 
@@ -27,7 +28,7 @@ theme:
     next: fontawesome/solid/angle-right
   features:
     - navigation.tracking
-    - navigation.tabs
+      # - navigation.tabs
     - navigation.sections
     - navigation.path
     - navigation.indexes
@@ -50,3 +51,5 @@ theme:
 
 copyright: Copyright &copy; 2023 Reiya Matsumoto
 repo_url: https://github.com/reitan4742/portfolio
+markdown_extensions:
+  - admonition
