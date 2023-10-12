@@ -1,5 +1,5 @@
 site_name: portfolio
-site_url: https://reitan4742.com/portfolio/
+site_url: https://reitan4742.com/
 
 nav:
   - Home: index.md
