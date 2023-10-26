@@ -1,8 +1,3 @@
 # portfolio
 
-github pagesへのdeploy
-`mkdocs gh-deploy`
-
-localでsiteの確認
-`mkdocs server`
-
+[ポートフォリオリンク](https://reitan4742.com/)
