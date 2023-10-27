@@ -14,11 +14,14 @@
 
 ### バックエンド
 * Express.js
+* Nest.js
 * Django
 * FastAPI
 
 ### インフラ
 * Nginx
+* Apache
 * CI/CD
 * Postgres
+* MySQL
 * AWS
